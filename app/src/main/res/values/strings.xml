@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Major Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_join_ride">JoinRide</string>
+    <string name="title_activity_share_ride">ShareRide</string>
+    <string name="title_activity_my_rides">MyRides</string>
+    <string name="title_activity_ride_details">RideDetails</string>
+    <string name="title_activity_ride_details_my_rides">RideDetailsMyRides</string>
+</resources>
